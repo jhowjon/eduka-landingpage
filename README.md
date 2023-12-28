@@ -4,12 +4,15 @@
 
 Elaboração de um site de educação.
 
-🧑🏻‍💻 Live Preview
+## 🧑🏻‍💻 Live Preview
+
 https://jhowjon.github.io/eduka-landingpage/
 
-👨🏻‍🎨 Design
+## 👨🏻‍🎨 Design
+
 FIGMA
 
-👾 Technologies
+## 👾 Technologies
+
 HTML
 CSS
