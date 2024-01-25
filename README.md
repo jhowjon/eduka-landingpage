@@ -2,7 +2,7 @@
 
 ## 🏆 Objetivo
 
-Esse site de educação tem o objetivo de treinas e aplicar as habilidades aprendidas, utilizando HTML, CSS e CSS responsivo.
+Esse site de educação tem o objetivo de treinar e aplicar as habilidades aprendidas, utilizando HTML, CSS e CSS responsivo.
 
 ## 🧑🏻‍💻 Live Preview
 
